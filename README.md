@@ -2,8 +2,8 @@
 
   - 👀 I’m interested in learning all about software engineering "world"
   - 🌱 I’m currently learning Git and Java algorithms 
-  - 📚 I’m looking to enter in a Computational Science College Course
-  - 🚀 I'm heading to be a Back-End Engineer
+  - 📚 I’m at Computater Science College Course
+  - 🚀 I'm heading to be a Back-End Engineer, focused in DevSec-Ops.
 
  ## 🔎 How to reach me:
 
